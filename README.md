@@ -12,7 +12,7 @@ I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined i
  
 3. **BlockGood (Decentralized Donation Tracker Platform)** -
    Bringing transparency to charitable giving through blockchain. [Repository](https://github.com/umershaikh123/blockGood)
-
+ 
 4. **InspectorAI** -
    InspectorAI uses AI to analyze smart contracts across blockchains, providing insights and spotting potential issues for developers and users. [Repository](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)
 
