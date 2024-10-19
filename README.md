@@ -4,7 +4,7 @@ I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined i
 
 ### Solidity Projects
 
-1. **Twitter DApp**  [Project Link](https://github.com/ritiklakhwani/twitter-dapp-using-react-solidity)
+1. **Twitter DApp  [Project Link](https://github.com/ritiklakhwani/twitter-dapp-using-react-solidity)** 
    A decentralized app built on Ethereum that mimics the functionalities of Twitter.
 
 2. **Advanced Lottery Mechanism**  [Project Link](https://github.com/ritiklakhwani/solidity-lottery-advanced-project)
