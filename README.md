@@ -9,7 +9,7 @@ I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined i
 
 2. **Advanced Lottery Mechanism** -
    Deployed on Polygon Mumbai Testnet, enabling secure and transparent voting. [Repository](https://github.com/ritiklakhwani/solidity-lottery-advanced-project)
- 
+  
 3. **BlockGood (Decentralized Donation Tracker Platform)** -
    Bringing transparency to charitable giving through blockchain. [Repository](https://github.com/umershaikh123/blockGood)
  
