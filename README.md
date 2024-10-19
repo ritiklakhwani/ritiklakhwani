@@ -1,27 +1,27 @@
-## Hi there 👋 i'm Ritik
+## Hi there 👋 I'm Ritik
 
-a blockchain dev passionate about Web3. I’ve built cool projects, joined international hackathons, and I’m always learning and pushing for bigger opportunities. Let’s connect and build something awesome!
+I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined international hackathons, and I’m always learning and pushing for bigger opportunities. Let’s connect and build something awesome!
 
-Solidity Projects
-1. Twitter DApp
- DApp built on the Ethereum that mimics functionalities of Twitter. 
+### Solidity Projects
 
-3. Advanced Lottery Mechanism
- Deployed the smart contract on Polygon Mumbai Testnet, enabling secure and transparent voting. 
+1. **Twitter DApp**  
+   A decentralized app built on Ethereum that mimics the functionalities of Twitter.
 
-5. BlockGood (decentralized donation tracker platform)
- Bringing transparency to charitable giving.
+2. **Advanced Lottery Mechanism**  
+   Deployed on Polygon Mumbai Testnet, enabling secure and transparent voting.
 
-7. InspectorAI
- InspectorAI uses AI to analyze smart contracts across blockchains, providing insights and spotting potential issues for developers and users.
+3. **BlockGood (Decentralized Donation Tracker Platform)**  
+   Bringing transparency to charitable giving through blockchain.
 
-Skills (Web3)
- Solidity
- Web3.js
- Decentralized Applications (DApps)
- Smart Contracts
+4. **InspectorAI**  
+   InspectorAI uses AI to analyze smart contracts across blockchains, providing insights and spotting potential issues for developers and users.
 
+### Skills (Web3)
+- Solidity
+- Web3.js
+- Decentralized Applications (DApps)
+- Smart Contracts
 
-
-
-
+### Contact
+Feel free to get in touch with me at:  
+📧 **ritiklakhwani28@gmail.com**
