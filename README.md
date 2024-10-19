@@ -23,5 +23,4 @@ I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined i
 - Smart Contracts
 
 ### Contact
-Feel free to get in touch with me at:  
-📧 **ritiklakhwani28@gmail.com**
+Feel free to get in touch with me at:  **ritiklakhwani28@gmail.com**
