@@ -17,7 +17,7 @@ I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined i
    InspectorAI uses AI to analyze smart contracts across blockchains, providing insights and spotting potential issues for developers and users. [Repository](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)
 
 3. **ZK credit score** -
-   BZk Credit Score: Zero-knowledge proofs meet crypto wallets. We analyze cross-chain activity to create a legit, privacy-first credit score for web3. No BS, just smart finance. [Repository]([https://github.com/umershaikh123/blockGood](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok))   
+   BZk Credit Score: Zero-knowledge proofs meet crypto wallets. We analyze cross-chain activity to create a legit, privacy-first credit score for web3. No BS, just smart finance. [Repository](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)   
 
 ### Skills (Web3)
 - Solidity
