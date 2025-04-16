@@ -1,29 +1,52 @@
-## Hi there 👋 I'm Ritik
+# Hi there 👋 I'm Ritik
 
-I'm a blockchain dev passionate about Web3. I’ve built cool projects, joined international hackathons, and I’m always learning and pushing for bigger opportunities. Let’s connect and build something awesome!
+I'm a blockchain developer focused on building real Web3 solutions. I've participated in global ETHGlobal hackathons, shipped meaningful projects, and always look for new challenges that push my skills further.
 
-### Solidity Projects
+---
 
-1. **Twitter DApp** -
-   A decentralized app built on Ethereum that mimics the functionalities of Twitter. [Repository](https://github.com/ritiklakhwani/twitter-dapp-using-react-solidity)
+## 🏆 Hackathon Highlights
 
-2. **Advanced Lottery Mechanism** -
-  This is a Solidity smart contract for a decentralized lottery system on the Ethereum blockchain. [Repository](https://github.com/ritiklakhwani/solidity-lottery-advanced-project)
-  
-3. **BlockGood (Decentralized Donation Tracker Platform)** -
-   Bringing transparency to charitable giving through blockchain. [Repository](https://github.com/umershaikh123/blockGood)
-  
-4. **InspectorAI** -
-   InspectorAI uses AI to analyze smart contracts across blockchains, providing insights and spotting potential issues for developers and users. [Repository](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)
+### 🥇 ETHGlobal Bangkok : Winner of $2070 Prize  
+*Project:* [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)  
+A privacy-first credit scoring system using zero-knowledge proofs. It evaluates cross-chain wallet activity and generates a Web3 credit score, without exposing any personal or financial data. Built for smarter, safer DeFi.
 
-3. **ZK credit score** -
-   BZk Credit Score: Zero-knowledge proofs meet crypto wallets. We analyze cross-chain activity to create a legit, privacy-first credit score for web3. No BS, just smart finance. [Repository](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)   
+### ETHGlobal Singapore  
+*Project:* [InspectorAI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)  
+AI tool that reviews and analyzes smart contracts across different blockchains. It detects vulnerabilities and provides detailed insights to help developers ship more secure dApps.
 
-### Skills (Web3)
-- Solidity
-- Web3.js
+### ETHGlobal Online  
+*Project:* [BlockGood](https://github.com/umershaikh123/blockGood)  
+A decentralized donation tracking platform designed to make charitable giving transparent. Every donation is recorded and traceable on-chain, so donors can trust where their funds go.
+
+---
+
+## 💻 Solidity Projects
+
+### [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)  
+A zero-knowledge-based Web3 credit score system. It balances privacy and utility by analyzing user wallet activity while keeping sensitive data private.
+
+### [InspectorAI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)  
+AI-powered tool that scans and interprets smart contract logic. Designed to improve code quality and reduce risk in dApp development.
+
+### [BlockGood](https://github.com/umershaikh123/blockGood)  
+A platform to track donations on-chain. Aimed at NGOs and donors who want full visibility into how funds are used.
+
+### [Twitter DApp](https://github.com/ritiklakhwani/twitter-dapp-using-react-solidity)  
+A decentralized microblogging platform built with React and Solidity. Mimics Twitter-like features while running entirely on Ethereum.
+
+### [Advanced Lottery Mechanism](https://github.com/ritiklakhwani/solidity-lottery-advanced-project)  
+A smart contract-based lottery system with fair randomness and anti-manipulation logic. Built using Chainlink VRF for provable fairness.
+
+---
+
+## 🛠 Skills
+
+- Solidity  
+- Smart Contracts  
 - Decentralized Applications (DApps)
-- Smart Contracts
 
-### Contact
-Feel free to get in touch with me at:  **ritiklakhwani28@gmail.com**
+---
+
+## 📬 Contact
+
+Reach out anytime: *ritiklakhwani28@gmail.com*
