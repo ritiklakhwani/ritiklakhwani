@@ -40,6 +40,10 @@ Built an on-chain donation tracking platform so donors can see where funds go.
 https://github.com/umershaikh123/blockGood  
 https://ethglobal.com/showcase/blockgood-qha9s  
 
+**ETHGlobal Delhi — Doc-Share**  
+Built a document sharing system with wallet-based access. Files self-delete after access or a two-minute expiry, with no long-term storage and full privacy on decentralized infrastructure.https://github.com/ritiklakhwani/doc-share  
+https://ethglobal.com/showcase/walshare-sfg9s
+
 ---
 
 ## Tools I Use
