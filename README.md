@@ -1,52 +1,55 @@
-# Hi there 👋 I'm Ritik
+# Ritik Lakhwani
 
-I'm a blockchain developer focused on building real Web3 solutions. I've participated in global ETHGlobal hackathons, shipped meaningful projects, and always look for new challenges that push my skills further.
+I am a backend developer. I build APIs, real-time systems, and backend services that are meant to run in production, not just demos.
 
----
-
-## 🏆 Hackathon Highlights
-
-### 🥇 ETHGlobal Bangkok : Winner of $2070 Prize  
-*Project:* [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)  
-A privacy-first credit scoring system using zero-knowledge proofs. It evaluates cross-chain wallet activity and generates a Web3 credit score, without exposing any personal or financial data. Built for smarter, safer DeFi.
-
-### ETHGlobal Singapore  
-*Project:* [InspectorAI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)  
-AI tool that reviews and analyzes smart contracts across different blockchains. It detects vulnerabilities and provides detailed insights to help developers ship more secure dApps.
-
-### ETHGlobal Online  
-*Project:* [BlockGood](https://github.com/umershaikh123/blockGood)  
-A decentralized donation tracking platform designed to make charitable giving transparent. Every donation is recorded and traceable on-chain, so donors can trust where their funds go.
+I mostly work with Node.js, TypeScript, PostgreSQL, Redis, and WebSockets. I care about clean APIs, predictable behavior, and systems that hold up under load. I also work with blockchain when it makes sense, mainly on the backend side.
 
 ---
 
-## 💻 Solidity Projects
+## Projects
 
-### [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)  
-A zero-knowledge-based Web3 credit score system. It balances privacy and utility by analyzing user wallet activity while keeping sensitive data private.
+**Real-Time Quiz Platform**  
+Built a live quiz system using WebSockets. Users receive questions in real time, submit answers, and get results instantly. Authentication is handled using JWT and role-based access.
+https://github.com/ritiklakhwani/ws-quizplatform
 
-### [InspectorAI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)  
-AI-powered tool that scans and interprets smart contract logic. Designed to improve code quality and reduce risk in dApp development.
+**Contest Platform Backend**  
+Built a role-based backend with strict API contracts. Enforced time limits, submission rules, and validations.
 
-### [BlockGood](https://github.com/umershaikh123/blockGood)  
-A platform to track donations on-chain. Aimed at NGOs and donors who want full visibility into how funds are used.
+**DEX Data Aggregation Service**  
+Aggregates token prices from multiple DEX APIs. Uses Redis for caching and WebSockets to stream live updates.
 
-### [Twitter DApp](https://github.com/ritiklakhwani/twitter-dapp-using-react-solidity)  
-A decentralized microblogging platform built with React and Solidity. Mimics Twitter-like features while running entirely on Ethereum.
-
-### [Advanced Lottery Mechanism](https://github.com/ritiklakhwani/solidity-lottery-advanced-project)  
-A smart contract-based lottery system with fair randomness and anti-manipulation logic. Built using Chainlink VRF for provable fairness.
+**Order Execution Engine**  
+Built a backend service to process orders concurrently. Handles retries, queues, and real-time status updates over WebSockets.
 
 ---
 
-## 🛠 Skills
+## Hackathons
 
-- Solidity  
-- Smart Contracts  
-- Decentralized Applications (DApps)
+**🥇 ETHGlobal Bangkok — Won ($2000) ZK Credit Score**  
+Built a privacy-first credit scoring system using zero-knowledge proofs. It analyzes cross-chain wallet activity without exposing user data.  
+https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok  
+https://ethglobal.com/showcase/zk-credit-score-pa7r4  
+
+**ETHGlobal Singapore — InspectorAI**  
+Worked on a backend system that analyzes smart contracts and flags potential issues using AI.  
+https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024  
+https://ethglobal.com/showcase/inspector-ai-s5mw5  
+
+**ETHGlobal Online — BlockGood**  
+Built an on-chain donation tracking platform so donors can see where funds go.  
+https://github.com/umershaikh123/blockGood  
+https://ethglobal.com/showcase/blockgood-qha9s  
 
 ---
 
-## 📬 Contact
+## Tools I Use
 
-Reach out anytime: *ritiklakhwani28@gmail.com*
+Node.js, TypeScript, Express, PostgreSQL, MongoDB, Redis, WebSockets  
+JWT, RBAC, Prisma, Docker, Nginx  
+Solidity, Foundry
+
+---
+
+## Contact
+
+Email: ritiklakhwani28@gmail.com  
