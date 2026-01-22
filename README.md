@@ -10,6 +10,7 @@ I mostly work with Node.js, TypeScript, PostgreSQL, Redis, and WebSockets. I car
 
 **Real-Time Quiz Platform**  
 Built a live quiz system using WebSockets. Users receive questions in real time, submit answers, and get results instantly. Authentication is handled using JWT and role-based access.
+
 https://github.com/ritiklakhwani/ws-quizplatform
 
 **Contest Platform Backend**  
@@ -41,7 +42,8 @@ https://github.com/umershaikh123/blockGood
 https://ethglobal.com/showcase/blockgood-qha9s  
 
 **ETHGlobal Delhi — Doc-Share**  
-Built a document sharing system with wallet-based access. Files self-delete after access or a two-minute expiry, with no long-term storage and full privacy on decentralized infrastructure.https://github.com/ritiklakhwani/doc-share  
+Built a document sharing system with wallet-based access. Files self-delete after access or a two-minute expiry, with no long-term storage and full privacy on decentralized infrastructure.
+https://github.com/ritiklakhwani/doc-share  
 https://ethglobal.com/showcase/walshare-sfg9s
 
 ---
