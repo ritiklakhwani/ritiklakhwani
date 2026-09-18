@@ -4,21 +4,20 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Ritik+Lakhwani+%C2%B7+backend+engineer;Real-time+pipelines+and+agent+infrastructure;Node.js+%C2%B7+TypeScript+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+Solidity">
-    <img alt="Ritik Lakhwani, backend engineer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=0A0A0A&center=true&vCenter=true&width=700&height=45&lines=Ritik+Lakhwani+%C2%B7+backend+engineer;Real-time+pipelines+and+agent+infrastructure;Node.js+%C2%B7+TypeScript+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+Solidity">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1800&center=true&vCenter=true&width=720&height=50&lines=Hey,+I%27m+Ritik+Lakhwani;Realtime+systems+and+distributed+backends;AI+agent+infra+and+onchain+data&color=E6EDF3">
+    <img alt="Ritik Lakhwani, backend engineer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1800&center=true&vCenter=true&width=720&height=50&lines=Hey,+I%27m+Ritik+Lakhwani;Realtime+systems+and+distributed+backends;AI+agent+infra+and+onchain+data&color=1F2328">
   </picture>
 </p>
 
 <p align="center">
-  Full-stack engineer, obsessed with scaling backends and infra.<br>
-  <sub>Prize winner at ETHOnline 2026 and ETHGlobal Bangkok</sub>
+  Full-stack engineer, obsessed with scaling backends and infra.
 </p>
 
 <p align="center">
-  <a href="https://oceandev.xyz"><img src="assets/btn-portfolio.svg" height="36" alt="oceandev.xyz"></a>&nbsp;
-  <a href="mailto:ritiklakhwani28@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ritiklakhwani"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a>&nbsp;
-  <a href="https://x.com/ritiklakhwani"><img src="assets/btn-x.svg" height="36" alt="X"></a>
+  <a href="https://oceandev.xyz"><img src="assets/icon-portfolio.svg" width="40" height="40" alt="Portfolio"></a>&nbsp;&nbsp;
+  <a href="mailto:ritiklakhwani28@gmail.com"><img src="assets/icon-email.svg" width="40" height="40" alt="Email"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/ritiklakhwani"><img src="assets/icon-linkedin.svg" width="40" height="40" alt="LinkedIn"></a>&nbsp;&nbsp;
+  <a href="https://x.com/ritiklakhwani"><img src="assets/icon-x.svg" width="40" height="40" alt="X"></a>
 </p>
 
 ---
@@ -28,17 +27,17 @@
 | Result | Event | Project | What was hard |
 |:--|:--|:--|:--|
 | **Prize winner** | ETHOnline 2026 | [Preflight](https://github.com/ritiklakhwani/preflight) | Judging contracts by on-chain history, not by text the deployer wrote |
-| **$2,000** | ETHGlobal Bangkok 2024 | [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok) <sub>[showcase](https://ethglobal.com/showcase/zk-credit-score-pa7r4)</sub> | Cross-chain balance proofs with vlayer Teleport that keep balances private |
-| **Pool prize** | ETHGlobal Singapore 2024 | [Inspector AI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024) <sub>[showcase](https://ethglobal.com/showcase/inspector-ai-s5mw5)</sub> | Contract risk scoring across chains, with World ID keeping reviews Sybil-resistant |
+| **$2,000** | ETHGlobal Bangkok 2024 | [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)<br><sub>[showcase](https://ethglobal.com/showcase/zk-credit-score-pa7r4)</sub> | Cross-chain balance proofs with vlayer Teleport that keep balances private |
+| **Pool prize** | ETHGlobal Singapore 2024 | [Inspector AI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)<br><sub>[showcase](https://ethglobal.com/showcase/inspector-ai-s5mw5)</sub> | Contract risk scoring across chains, with World ID keeping reviews Sybil-resistant |
 | Built | ETHGlobal Open Agents 2026 | [TamaTown](https://github.com/ritiklakhwani/eth-open-agents) | One process and one P2P node per agent, under a single supervisor |
-| Built | SCBC 2026 | [AgentBazaar](https://github.com/ritiklakhwani/agent-marketplace) | Agents paying each other per call in USDC over x402, with reputation-weighted bidding |
+| Built | SCBC 2026 | [AgentMarketplace](https://github.com/ritiklakhwani/agent-marketplace) | Agents paying each other per call in USDC over x402, with reputation-weighted bidding |
 | Built | Solana Monolith 2026 | [Degen Derby](https://github.com/ritiklakhwani/degen-derby) | Live memecoin prices driving a race in real time, with parimutuel SOL payouts |
 
 <sub>Also: ETHOnline 2024, [BlockGood](https://ethglobal.com/showcase/blockgood-qha9s) (Sign Protocol pool prize) · ETHGlobal New Delhi 2025, [WalShare](https://ethglobal.com/showcase/walshare-sfg9s)</sub>
 
 ---
 
-### <img src="assets/pepe-coder.png" height="30" align="absmiddle" alt="">&nbsp; Projects
+### <img src="assets/pepe-projects.png" height="30" align="absmiddle" alt="">&nbsp; Projects
 
 <table>
 <tr>
@@ -63,7 +62,7 @@ Persistent AI agents as transferable NFTs, each running as its own process and P
 <sub>Fastify · Socket.IO · SQLite · Foundry · viem · Claude</sub>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/agent-marketplace">AgentBazaar</a></b> &nbsp;<a href="https://agentbazaar.oceandev.xyz/"><img src="assets/live-demo.svg" height="22" align="absmiddle" alt="Live demo"></a><br>
+<b><a href="https://github.com/ritiklakhwani/agent-marketplace">AgentMarketplace</a></b> &nbsp;<a href="https://agentbazaar.oceandev.xyz/"><img src="assets/live-demo.svg" height="22" align="absmiddle" alt="Live demo"></a><br>
 AI agents bid in a Dutch auction, hire specialist agents and pay each other in USDC over x402 on Solana.<br>
 <sub>2 Anchor programs · reputation-weighted bids · insurance vault</sub><br>
 <sub>Anchor · Next.js · x402 · USDC · Circle CCTP</sub>
