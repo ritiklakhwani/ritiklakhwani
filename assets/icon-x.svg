@@ -1,12 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" role="img" aria-label="X">
 <style>
   .bg{fill:#f6f8fa;stroke:#d1d9e0} .s{stroke:#1f2328} .f{fill:#1f2328}
-  .muted-s{stroke:#59636e} .muted-f{fill:#59636e} .line{fill:none;stroke:#d1d9e0} .dot{fill:#0c8a56}
+  .muted-s{stroke:#59636e} .muted-f{fill:#59636e} .line{fill:none;stroke:#d1d9e0} .dot{fill:#0c8a56} .accent-s{stroke:#0c8a56}
   @media (prefers-color-scheme:dark){
     .bg{fill:#151b23;stroke:#3d444d} .s{stroke:#e6edf3} .f{fill:#e6edf3}
-    .muted-s{stroke:#9198a1} .muted-f{fill:#9198a1} .line{stroke:#3d444d} .dot{fill:#14f195}
+    .muted-s{stroke:#9198a1} .muted-f{fill:#9198a1} .line{stroke:#3d444d} .dot{fill:#14f195} .accent-s{stroke:#14f195}
   }
 </style>
 <rect class="bg" x=".5" y=".5" width="39" height="39" rx="10"/>
-<g transform="translate(11.0 11.0) scale(0.75)"><path class="f" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/></g>
+<g transform="translate(10.5 10.5) scale(0.7916666666666666)"><path fill="#9945ff" d="M14.234 10.162 22.977 0h-2.072l-7.591 8.824L7.251 0H.258l9.168 13.343L.258 24H2.33l8.016-9.318L16.749 24h6.993zm-2.837 3.299-.929-1.329L3.076 1.56h3.182l5.965 8.532.929 1.329 7.754 11.09h-3.182z"/></g>
 </svg>

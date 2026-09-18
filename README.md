@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Full-stack engineer, obsessed with scaling backends and infra.
+  Fullstack dev, obsessed with scaling backends and infra.
 </p>
 
 <p align="center">
