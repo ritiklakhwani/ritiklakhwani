@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pepe.png" width="96" alt="">
+  <img src="assets/avatar.svg" width="150" alt="">
 </p>
 
 <p align="center">
@@ -10,21 +10,20 @@
 </p>
 
 <p align="center">
-  <b>Backend-focused full-stack engineer.</b><br>
-  I build and scale real-time systems, event-driven services and the infrastructure AI agents run on.<br>
-  Prize winner at ETHOnline 2026 and ETHGlobal Bangkok.
+  Full-stack engineer, obsessed with scaling backends and infra.<br>
+  <sub>Prize winner at ETHOnline 2026 and ETHGlobal Bangkok</sub>
 </p>
 
 <p align="center">
-  <a href="https://oceandev.xyz"><img src="https://img.shields.io/badge/oceandev.xyz-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" alt="oceandev.xyz"></a>
-  <a href="mailto:ritiklakhwani28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/ritiklakhwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
-  <a href="https://x.com/ritiklakhwani"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://oceandev.xyz"><img src="assets/btn-portfolio.svg" height="36" alt="oceandev.xyz"></a>&nbsp;
+  <a href="mailto:ritiklakhwani28@gmail.com"><img src="assets/btn-email.svg" height="36" alt="Email"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ritiklakhwani"><img src="assets/btn-linkedin.svg" height="36" alt="LinkedIn"></a>&nbsp;
+  <a href="https://x.com/ritiklakhwani"><img src="assets/btn-x.svg" height="36" alt="X"></a>
 </p>
 
 ---
 
-### Hackathons &nbsp;<sub>8 hackathons · prizes at 4</sub>
+### <img src="assets/pepe-cool.png" height="30" align="absmiddle" alt="">&nbsp; Hackathons &nbsp;<sub>8 hackathons · prizes at 4</sub>
 
 | Result | Event | Project | What was hard |
 |:--|:--|:--|:--|
@@ -39,7 +38,7 @@
 
 ---
 
-### Projects
+### <img src="assets/pepe-coder.png" height="30" align="absmiddle" alt="">&nbsp; Projects
 
 <table>
 <tr>
@@ -64,7 +63,7 @@ Persistent AI agents as transferable NFTs, each running as its own process and P
 <sub>Fastify · Socket.IO · SQLite · Foundry · viem · Claude</sub>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/agent-marketplace">AgentBazaar</a></b> &nbsp;<a href="https://agentbazaar.oceandev.xyz/"><img src="https://img.shields.io/badge/Live_demo-16A34A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" alt="Live demo"></a><br>
+<b><a href="https://github.com/ritiklakhwani/agent-marketplace">AgentBazaar</a></b> &nbsp;<a href="https://agentbazaar.oceandev.xyz/"><img src="assets/live-demo.svg" height="22" align="absmiddle" alt="Live demo"></a><br>
 AI agents bid in a Dutch auction, hire specialist agents and pay each other in USDC over x402 on Solana.<br>
 <sub>2 Anchor programs · reputation-weighted bids · insurance vault</sub><br>
 <sub>Anchor · Next.js · x402 · USDC · Circle CCTP</sub>
@@ -72,13 +71,13 @@ AI agents bid in a Dutch auction, hire specialist agents and pay each other in U
 </tr>
 <tr>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/csv-to-crm-ai-pipeline">CSV to CRM</a></b> &nbsp;<a href="https://csv-to-crm-ai-pipeline-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-16A34A?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a><br>
+<b><a href="https://github.com/ritiklakhwani/csv-to-crm-ai-pipeline">CSV to CRM</a></b> &nbsp;<a href="https://csv-to-crm-ai-pipeline-frontend.vercel.app/"><img src="assets/live-demo.svg" height="22" align="absmiddle" alt="Live demo"></a><br>
 Maps any lead CSV onto a fixed CRM schema with a two-phase LLM pipeline and a validator that trusts nothing.<br>
 <sub>25-row batches, 4 in flight · 3 attempts per batch · 15 fields</sub><br>
 <sub>Express · OpenAI · Zod · SSE · Next.js</sub>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/notification-microservice">Notification service</a></b><br>
+<b><a href="https://github.com/ritiklakhwani/notification-microservice">Notification microservice</a></b><br>
 The API publishes an event and returns. A separate service renders and delivers email from priority queues.<br>
 <sub>3 priority queues · SET NX dedupe per job · non-blocking API</sub><br>
 <sub>Bun · Redis · PostgreSQL · Prisma · Resend</sub>
@@ -120,7 +119,7 @@ https://github.com/user-attachments/assets/68c84078-4243-4c73-85dd-7d3101548503
 
 ---
 
-### Stack
+### <img src="assets/pepe-chair.png" height="30" align="absmiddle" alt="">&nbsp; Stack
 
 <table>
 <tr>
