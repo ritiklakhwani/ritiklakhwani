@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/pepe.png" width="96" alt="">
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=45&lines=Ritik+Lakhwani+%C2%B7+backend+engineer;Real-time+pipelines+and+agent+infrastructure;Node.js+%C2%B7+TypeScript+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+Solidity">
     <img alt="Ritik Lakhwani, backend engineer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=0A0A0A&center=true&vCenter=true&width=700&height=45&lines=Ritik+Lakhwani+%C2%B7+backend+engineer;Real-time+pipelines+and+agent+infrastructure;Node.js+%C2%B7+TypeScript+%C2%B7+Postgres+%C2%B7+Redis+%C2%B7+Solidity">
@@ -6,28 +10,32 @@
 </p>
 
 <p align="center">
-  Backend engineer building real-time pipelines and the infrastructure AI agents run on.<br>
-  Prizes at ETHOnline 2026 and ETHGlobal Bangkok ($2,000).
+  <b>Backend-focused full-stack engineer.</b><br>
+  I build and scale real-time systems, event-driven services and the infrastructure AI agents run on.<br>
+  Prize winner at ETHOnline 2026 and ETHGlobal Bangkok.
 </p>
 
 <p align="center">
-  <a href="https://oceandev.xyz">oceandev.xyz</a> &nbsp;·&nbsp;
-  <a href="mailto:ritiklakhwani28@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://x.com/ritiklakhwani">X</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/ritiklakhwani">LinkedIn</a>
+  <a href="https://oceandev.xyz"><img src="https://img.shields.io/badge/oceandev.xyz-7C3AED?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" alt="oceandev.xyz"></a>
+  <a href="mailto:ritiklakhwani28@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/ritiklakhwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
+  <a href="https://x.com/ritiklakhwani"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
 </p>
 
 ---
 
-### Hackathons &nbsp;<sub>6 ETHGlobal events · prizes at 4</sub>
+### Hackathons &nbsp;<sub>8 hackathons · prizes at 4</sub>
 
 | Result | Event | Project | What was hard |
 |:--|:--|:--|:--|
 | **Prize winner** | ETHOnline 2026 | [Preflight](https://github.com/ritiklakhwani/preflight) | Judging contracts by on-chain history, not by text the deployer wrote |
-| **$2,000** | Bangkok 2024 | [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok) <sub>[showcase](https://ethglobal.com/showcase/zk-credit-score-pa7r4)</sub> | Cross-chain balance proofs with vlayer Teleport that keep balances private |
-| Built | Open Agents 2026 | [PetCity](https://github.com/ritiklakhwani/eth-open-agents) | One process and one P2P node per agent, under a single supervisor |
+| **$2,000** | ETHGlobal Bangkok 2024 | [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok) <sub>[showcase](https://ethglobal.com/showcase/zk-credit-score-pa7r4)</sub> | Cross-chain balance proofs with vlayer Teleport that keep balances private |
+| **Pool prize** | ETHGlobal Singapore 2024 | [Inspector AI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024) <sub>[showcase](https://ethglobal.com/showcase/inspector-ai-s5mw5)</sub> | Contract risk scoring across chains, with World ID keeping reviews Sybil-resistant |
+| Built | ETHGlobal Open Agents 2026 | [TamaTown](https://github.com/ritiklakhwani/eth-open-agents) | One process and one P2P node per agent, under a single supervisor |
+| Built | SCBC 2026 | [AgentBazaar](https://github.com/ritiklakhwani/agent-marketplace) | Agents paying each other per call in USDC over x402, with reputation-weighted bidding |
+| Built | Solana Monolith 2026 | [Degen Derby](https://github.com/ritiklakhwani/degen-derby) | Live memecoin prices driving a race in real time, with parimutuel SOL payouts |
 
-<sub>Also: Singapore 2024, [Inspector AI](https://ethglobal.com/showcase/inspector-ai-s5mw5) (Worldcoin pool prize) · ETHOnline 2024, [BlockGood](https://ethglobal.com/showcase/blockgood-qha9s) (Sign Protocol pool prize) · New Delhi 2025, [WalShare](https://ethglobal.com/showcase/walshare-sfg9s)</sub>
+<sub>Also: ETHOnline 2024, [BlockGood](https://ethglobal.com/showcase/blockgood-qha9s) (Sign Protocol pool prize) · ETHGlobal New Delhi 2025, [WalShare](https://ethglobal.com/showcase/walshare-sfg9s)</sub>
 
 ---
 
@@ -42,7 +50,7 @@ The check an AI agent runs before it signs. Scores a contract on its on-chain hi
 <sub>TypeScript · MCP · PostgreSQL · The Graph · Ledger</sub>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/real-time-data-aggregation-service">Solana market pipeline</a></b><br>
+<b><a href="https://github.com/ritiklakhwani/real-time-data-aggregation-service">Realtime DEX Data Aggregator</a></b><br>
 DexScreener and Jupiter merged into one live token feed, cached in Redis and pushed to clients over WebSockets.<br>
 <sub>2 s cycle · 2 sources · 4 services sharing only Redis</sub><br>
 <sub>TypeScript · Redis pub/sub · ws · Express · Docker</sub>
@@ -50,33 +58,30 @@ DexScreener and Jupiter merged into one live token feed, cached in Redis and pus
 </tr>
 <tr>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/eth-open-agents">PetCity</a></b><br>
+<b><a href="https://github.com/ritiklakhwani/eth-open-agents">TamaTown</a></b><br>
 Persistent AI agents as transferable NFTs, each running as its own process and P2P node, acting for its owner on-chain.<br>
 <sub>1 process + 1 P2P node per agent · 4 contracts · 5 workflow types</sub><br>
 <sub>Fastify · Socket.IO · SQLite · Foundry · viem · Claude</sub>
 </td>
 <td width="50%" valign="top">
-<b><a href="https://github.com/ritiklakhwani/csv-to-crm-ai-pipeline">CSV to CRM</a></b> &nbsp;<sub><a href="https://csv-to-crm-ai-pipeline-frontend.vercel.app/">live</a></sub><br>
+<b><a href="https://github.com/ritiklakhwani/agent-marketplace">AgentBazaar</a></b> &nbsp;<a href="https://agentbazaar.oceandev.xyz/"><img src="https://img.shields.io/badge/Live_demo-16A34A?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIj48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjxwYXRoIGQ9Ik0yIDEyaDIwTTEyIDJhMTUgMTUgMCAwIDEgMCAyME0xMiAyYTE1IDE1IDAgMCAwIDAgMjAiLz48L3N2Zz4%3D" alt="Live demo"></a><br>
+AI agents bid in a Dutch auction, hire specialist agents and pay each other in USDC over x402 on Solana.<br>
+<sub>2 Anchor programs · reputation-weighted bids · insurance vault</sub><br>
+<sub>Anchor · Next.js · x402 · USDC · Circle CCTP</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b><a href="https://github.com/ritiklakhwani/csv-to-crm-ai-pipeline">CSV to CRM</a></b> &nbsp;<a href="https://csv-to-crm-ai-pipeline-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-16A34A?style=flat-square&logo=vercel&logoColor=white" alt="Live demo"></a><br>
 Maps any lead CSV onto a fixed CRM schema with a two-phase LLM pipeline and a validator that trusts nothing.<br>
 <sub>25-row batches, 4 in flight · 3 attempts per batch · 15 fields</sub><br>
 <sub>Express · OpenAI · Zod · SSE · Next.js</sub>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <b><a href="https://github.com/ritiklakhwani/notification-microservice">Notification service</a></b><br>
 The API publishes an event and returns. A separate service renders and delivers email from priority queues.<br>
 <sub>3 priority queues · SET NX dedupe per job · non-blocking API</sub><br>
 <sub>Bun · Redis · PostgreSQL · Prisma · Resend</sub>
-</td>
-<td width="50%" valign="top">
-<b>More</b><br>
-<a href="https://github.com/ritiklakhwani/agent-marketplace">AgentBazaar</a> &nbsp;<sub><a href="https://agentbazaar.oceandev.xyz/">live</a></sub><br>
-<sub>AI agents that bid on and pay each other in USDC over x402</sub><br>
-<a href="https://github.com/ritiklakhwani/web3-realtime-stream-proxy">stream-proxy</a><br>
-<sub>Exchange WebSocket feed, fanned out to clients by subscription</sub><br>
-<a href="https://github.com/ritiklakhwani/solana-wallet-monitor">wallet-monitor</a><br>
-<sub>Rust service watching Solana balance changes</sub>
 </td>
 </tr>
 </table>
@@ -103,7 +108,7 @@ flowchart LR
 
 <img src="https://raw.githubusercontent.com/ritiklakhwani/preflight/main/docs/images/verdict.png" alt="Preflight rating a token HIGH 94 of 100" width="640">
 
-**Solana market pipeline**
+**Realtime DEX Data Aggregator**
 
 https://github.com/user-attachments/assets/e54436c3-9675-4eb6-ab80-389c69d1f09c
 
