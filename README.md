@@ -4,8 +4,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1800&center=true&vCenter=true&width=720&height=50&lines=Hey,+I%27m+Ritik+Lakhwani;Realtime+systems+and+distributed+backends;AI+agent+infra+and+onchain+data&color=E6EDF3">
-    <img alt="Ritik Lakhwani, backend engineer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1800&center=true&vCenter=true&width=720&height=50&lines=Hey,+I%27m+Ritik+Lakhwani;Realtime+systems+and+distributed+backends;AI+agent+infra+and+onchain+data&color=1F2328">
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1800&center=true&vCenter=true&width=720&height=50&lines=Hey,+I%27m+Ritik+Lakhwani;Realtime+systems+and+distributed+backends;AI+agent+infra+and+onchain+data&color=14F195">
+    <img alt="Ritik Lakhwani, backend engineer" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=1800&center=true&vCenter=true&width=720&height=50&lines=Hey,+I%27m+Ritik+Lakhwani;Realtime+systems+and+distributed+backends;AI+agent+infra+and+onchain+data&color=0C8A56">
   </picture>
 </p>
 
