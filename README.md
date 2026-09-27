@@ -26,7 +26,7 @@
 
 | Result | Event | Project | What was hard |
 |:--|:--|:--|:--|
-| **Prize winner** | ETHOnline 2026 | [Preflight](https://github.com/ritiklakhwani/preflight) | Judging contracts by on-chain history, not by text the deployer wrote |
+| **$500** | ETHOnline 2026 | [Preflight](https://github.com/ritiklakhwani/preflight) | Judging contracts by on-chain history, not by text the deployer wrote |
 | **$2,000** | ETHGlobal Bangkok 2024 | [ZK Credit Score](https://github.com/ritiklakhwani/zk-credit-score-eth-global-bangkok)<br><sub>[showcase](https://ethglobal.com/showcase/zk-credit-score-pa7r4)</sub> | Cross-chain balance proofs with vlayer Teleport that keep balances private |
 | **Pool prize** | ETHGlobal Singapore 2024 | [Inspector AI](https://github.com/Krane-Apps/inspector-ai-eth-singapore-2024)<br><sub>[showcase](https://ethglobal.com/showcase/inspector-ai-s5mw5)</sub> | Contract risk scoring across chains, with World ID keeping reviews Sybil-resistant |
 | Built | ETHGlobal Open Agents 2026 | [TamaTown](https://github.com/ritiklakhwani/eth-open-agents) | One process and one P2P node per agent, under a single supervisor |
